@@ -45,6 +45,16 @@
             "name": "big_N_small_n.py",
             "language": "pypy3",
             "alias": "BS"
+        },
+        {
+            "name": "small_N_big_n.py",
+            "language": "pypy3",
+            "alias": "SB"
+        },
+        {
+            "name": "small_N_small_n.py",
+            "language": "pypy3",
+            "alias": "SS"
         }
     ],
     "subtask_group": [],
