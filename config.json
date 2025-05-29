@@ -226,13 +226,6 @@
             "only_deploy": false
         },
         {
-            "script": "RAN htjqs d tjodnfvvi ud",
-            "subtask_group": "",
-            "description": "",
-            "is_example": false,
-            "only_deploy": false
-        },
-        {
             "script": "RAN zskqnijrfbv h aql gz",
             "subtask_group": "",
             "description": "",
@@ -255,6 +248,13 @@
         },
         {
             "script": "RAN pts n klvyvueszmllev",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "RAN zxnydibilobuus qiuqm",
             "subtask_group": "",
             "description": "",
             "is_example": false,
