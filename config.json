@@ -38,7 +38,29 @@
         }
     ],
     "subtask_group": [],
-    "genscript": [],
+    "genscript": [
+        {
+            "script": "example 1",
+            "subtask_group": "",
+            "description": "",
+            "is_example": true,
+            "only_deploy": false
+        },
+        {
+            "script": "example 2",
+            "subtask_group": "",
+            "description": "",
+            "is_example": true,
+            "only_deploy": false
+        },
+        {
+            "script": "example 3",
+            "subtask_group": "",
+            "description": "",
+            "is_example": true,
+            "only_deploy": false
+        }
+    ],
     "versions": {
         "config": 1,
         "repository": 1
