@@ -86,175 +86,210 @@
             "only_deploy": false
         },
         {
-            "script": "BB 41 968 64695851 6462",
+            "script": "BB 1",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "BB 5249 777992 2933 527",
+            "script": "BB 2",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "BB 39 5 1 61127 8 899 3",
+            "script": "BB 3",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "BB 9 65841129 15259 454",
+            "script": "BB 4",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "BB 71 92342963 93 52593",
+            "script": "BB 5",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "BS 5 4113 971 425785918",
+            "script": "SB 1",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "BS 75397191 23761 1 135",
+            "script": "SB 2",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "BS 38 5 84 5 99674 1441",
+            "script": "SB 3",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "BS 46 11744 67619 37647",
+            "script": "SB 4",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "BS 89256 177 28 948 764",
+            "script": "SB 5",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SS 458 61 12733642 6 19",
+            "script": "BS 1",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SS 165167 6 273174 1761",
+            "script": "BS 2",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SS 18 98 36 9 9396279 4",
+            "script": "BS 3",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SS 5 536 6473559 585857",
+            "script": "BS 4",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SS 233487 1 44248535 46",
+            "script": "BS 5",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SB 7954 52 6481 431 2 3",
+            "script": "SS 1",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SB 9 4689 4 3694211 813",
+            "script": "SS 2",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SB 4 39527 4592 2 74119",
+            "script": "SS 3",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SB 6141 83811871 8 8168",
+            "script": "SS 4",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "SB 65 3643394 942911 58",
+            "script": "SS 5",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "RAN 6 817 4 8 4 868 2864",
+            "script": "RAN 1",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "RAN 358811139821916 53 7",
+            "script": "RAN 2",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "RAN 4 96 21 52 23 26 5 3",
+            "script": "RAN 3",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "RAN 5 8816 35 2 121122 6",
+            "script": "RAN 4",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "RAN 2337 76 6 4 79 33117",
+            "script": "RAN 5",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "RAN 6",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "RAN 7",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "RAN 8",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "RAN 9",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "RAN 10",
             "subtask_group": "",
             "description": "",
             "is_example": false,
