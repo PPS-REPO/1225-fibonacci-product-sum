@@ -7,7 +7,7 @@
     "validator_language": "pypy3",
     "subtask": false,
     "limits": {
-        "time": 5000,
+        "time": 2500,
         "memory": 1073741824,
         "factor": {
             "py3": {
