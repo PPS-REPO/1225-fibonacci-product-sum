@@ -1,5 +1,5 @@
 {
-    "problem_title": "피보나치 수의 곱의 합",
+    "problem_title": "Fibonacci strikes back",
     "problem_type": "stdio",
     "checker": "tcmp.cc",
     "checker_language": "cpp11",
