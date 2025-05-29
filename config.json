@@ -21,10 +21,6 @@
         {
             "name": "statement.md",
             "label": "한국어"
-        },
-        {
-            "name": "statement_en.md",
-            "label": "English"
         }
     ],
     "solutions": [
