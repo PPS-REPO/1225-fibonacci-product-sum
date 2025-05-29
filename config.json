@@ -35,6 +35,16 @@
             "name": "example_gen.py",
             "language": "pypy3",
             "alias": "example"
+        },
+        {
+            "name": "big_N_big_n.py",
+            "language": "pypy3",
+            "alias": "BB"
+        },
+        {
+            "name": "big_N_small_n.py",
+            "language": "pypy3",
+            "alias": "BS"
         }
     ],
     "subtask_group": [],
