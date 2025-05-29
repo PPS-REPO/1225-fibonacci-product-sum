@@ -3,8 +3,8 @@
     "problem_type": "stdio",
     "checker": "tcmp.cc",
     "checker_language": "cpp11",
-    "validator": "validator.cc",
-    "validator_language": "cpp11",
+    "validator": "validator_without_testlib.py",
+    "validator_language": "pypy3",
     "subtask": false,
     "limits": {
         "time": 5000,
