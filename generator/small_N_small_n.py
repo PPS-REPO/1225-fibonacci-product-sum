@@ -1,13 +1,3 @@
 import sys
-import random
-import hashlib
-
-from random import randint as rnd
-
-# Fixed Random Seed
-hashValue = hashlib.sha256("|".join(sys.argv[1:]).encode()).hexdigest()
-random.seed(hashValue)
-
-Nl = 1; Nr = 25; nl = 1; nr = 10**4
-
-print(rnd(Nl, Nr), rnd(nl, nr))
+t = int(sys.argv[1])
+print(['','6 277160','17 784','7 85','16 37130','21 2'][t])
