@@ -55,6 +55,11 @@
             "name": "small_N_small_n.py",
             "language": "pypy3",
             "alias": "SS"
+        },
+        {
+            "name": "pure_random.py",
+            "language": "pypy3",
+            "alias": "RAN"
         }
     ],
     "subtask_group": [],
