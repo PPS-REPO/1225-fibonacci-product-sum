@@ -30,7 +30,13 @@
             "type": "MCS"
         }
     ],
-    "generators": [],
+    "generators": [
+        {
+            "name": "example_gen.py",
+            "language": "pypy3",
+            "alias": "example"
+        }
+    ],
     "subtask_group": [],
     "genscript": [],
     "versions": {
