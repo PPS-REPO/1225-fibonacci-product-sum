@@ -10,7 +10,7 @@ $\displaystyle \sum_{\sum_1^n a_i=N}\left\{\prod_{i=1}^nF_{a_i}\,\middle\vert\,\
 
 # 입력
 
-첫째 줄에 두 양의 정수 $n, N$가 공백으로 구분되어 주어진다. $(1\le n\le 10^{18};$ $1\le N\le 100)$
+첫째 줄에 두 양의 정수 $N,n$가 공백으로 구분되어 주어진다. $(1\le N\le 100;$ $1\le n\le 10^{18})$
 
 # 출력
 
