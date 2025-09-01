@@ -5,6 +5,8 @@
     "checker_language": "cpp11",
     "validator": "validator_without_testlib.py",
     "validator_language": "pypy3",
+    "interactor": "",
+    "interactor_language": "",
     "subtask": false,
     "limits": {
         "time": 500,
@@ -296,6 +298,7 @@
             "only_deploy": false
         }
     ],
+    "manual_example": [],
     "versions": {
         "config": 1,
         "repository": 1
